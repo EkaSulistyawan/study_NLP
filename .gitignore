@@ -1,3 +1,5 @@
 NVIDIA_RAG
 PAPER_DOCS
 docstore_index
+.gradio
+chatbot_server.ipynb
